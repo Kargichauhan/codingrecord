@@ -1,7 +1,12 @@
-| Topic | Priority | Time required |
+
+##Array
+# Sliding Window
+| Topic | Status | Repeat |
 | --- | --- | --- |
-| [Sorting and searching](https://www.techinterviewhandbook.org/algorithms/sorting-searching/) | High | 3 hours |
-| [Matrix](https://www.techinterviewhandbook.org/algorithms/matrix/) | High | 1 hour |
-| [Linked List](https://www.techinterviewhandbook.org/algorithms/linked-list/) | Mid | 3 hours |
-| [Queue](https://www.techinterviewhandbook.org/algorithms/queue/) | Mid | 2 hours |
-| [Stack](https://www.techinterviewhandbook.org/algorithms/stack/) | Mid | 2 hours |
+| [Minimum Window Substring]([https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/minimum-window-substring/description/)) | in progress | 0 |
+| [ Longest Substring Without Repeating Characters]([https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)) | in progress | 0 |
+| [ Minimum Size Subarray Sum]([[https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/))](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | in progress | 0 |
+| [Minimum Window Substring]([[https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)](https://leetcode.com/problems/minimum-window-substring/description/)) | in progress | 0 |
+| [ Longest Substring Without Repeating Characters]([https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)) | in progress | 0 |
+| [ Longest Substring Without Repeating Characters]([https://www.techinterviewhandbook.org/algorithms/sorting-searching/](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)) | in progress | 0 |
+
